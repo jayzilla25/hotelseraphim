@@ -1,0 +1,3 @@
+<div class="fixed sm:right-10 sm:bottom-10 right-5 bottom-5 md:bg-sky-600 rounded-3xl sm:hover:text-white">
+    <a href="{{url('/households/create')}}" class="group flex items-center"><span class="px-2 py-1 text-5xl md:text-2xl text-blue-500 hover:text-yellow-500 md:text-yellow-500 md:group-hover:text-white"><i class="fa-solid fa-circle-plus"></i></span> <span class="hidden md:block pr-3 text-white">Add Household</span></a>
+</div>
